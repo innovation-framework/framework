@@ -1,6 +1,6 @@
 <?php
-namespace App\Library;
-use App\Library\Config;
+namespace Light;
+use Light\Config;
 
 /**
  * This class will handle Language in this application

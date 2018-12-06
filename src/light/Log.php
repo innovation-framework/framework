@@ -1,10 +1,10 @@
 <?php
-namespace App\Library;
+namespace Light;
 
 use Monolog\Logger;
 use Monolog\Handler\StreamHandler;
 use Carbon\Carbon;
-use App\Library\Config;
+use Light\Config;
 
 /**
  * This class will handle logs of this application

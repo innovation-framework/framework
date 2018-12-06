@@ -1,6 +1,6 @@
 <?php
-namespace App\Library\Facade\Facades;
-use App\Library\Facade\Facade;
+namespace Light\Facade\Facades;
+use Light\Facade\Facade;
 
 /**
  * Config proxy

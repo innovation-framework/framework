@@ -1,6 +1,6 @@
 <?php
-namespace App\Library;
-use App\Library\Database\Driver;
+namespace Light;
+use Light\Database\Driver;
 
 /**
  * This is base model class, will contain common perporties & functions in this one

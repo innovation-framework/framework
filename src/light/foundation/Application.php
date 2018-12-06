@@ -1,7 +1,7 @@
 <?php
-namespace App\Library\Foundation;
+namespace Light\Foundation;
 
-use App\Library\Container\Container;
+use Light\Container\Container;
 
 /**
  * This class will handle all info of app when init

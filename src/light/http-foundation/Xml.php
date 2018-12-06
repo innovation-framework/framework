@@ -1,7 +1,7 @@
 <?php
-namespace App\Library\HttpFoundation;
+namespace Light\HttpFoundation;
 
-use App\Library\HttpFoundation\BaseResponse;
+use Light\HttpFoundation\BaseResponse;
 
 /**
  * This class will handle Xml response object

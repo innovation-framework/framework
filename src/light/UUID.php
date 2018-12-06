@@ -1,5 +1,5 @@
 <?php
-namespace App\Library;
+namespace Light;
 
 /**
  * This object handles uuid object

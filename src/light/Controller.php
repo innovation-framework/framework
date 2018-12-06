@@ -1,10 +1,10 @@
 <?php
-namespace App\Library;
-use App\Library\HttpFoundation\BaseResponse;
-use App\Library\Middleware\Middleware;
-use App\Library\Language;
-use App\Library\Request;
-use App\Library\Session;
+namespace Light;
+use Light\HttpFoundation\BaseResponse;
+use Light\Middleware\Middleware;
+use Light\Language;
+use Light\Request;
+use Light\Session;
 
 /**
  * This class will handler all controllers

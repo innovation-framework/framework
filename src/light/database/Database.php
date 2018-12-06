@@ -1,7 +1,7 @@
 <?php
-namespace App\Library\Database;
-use App\Library\Config;
-use App\Library\ArrayHandler;
+namespace Light\Database;
+use Light\Config;
+use Light\ArrayHandler;
 
 /**
  * This class is common database class

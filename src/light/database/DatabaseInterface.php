@@ -1,5 +1,5 @@
 <?php
-namespace App\Library\Database;
+namespace Light\Database;
 
 /**
  * This class forces subclass DB implement follow to this pattern

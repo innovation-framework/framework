@@ -1,5 +1,5 @@
 <?php
-namespace App\Library\HttpFoundation;
+namespace Light\HttpFoundation;
 
 /**
  * This class will handle response

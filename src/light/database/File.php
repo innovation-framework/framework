@@ -1,9 +1,9 @@
 <?php
-namespace App\Library\Database;
+namespace Light\Database;
 
-use App\Library\Database\DatabaseInterface;
-use App\Library\Database\Database;
-use App\Library\ArrayHandler;
+use Light\Database\DatabaseInterface;
+use Light\Database\Database;
+use Light\ArrayHandler;
 
 /**
  * This class will handle to read/write to file

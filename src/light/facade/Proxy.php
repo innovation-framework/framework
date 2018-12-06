@@ -1,6 +1,6 @@
 <?php
-namespace App\Library\Facade;
-use App\Library\ArrayHandler;
+namespace Light\Facade;
+use Light\ArrayHandler;
 
 /**
  * This class will mapping between facade accessor with Object

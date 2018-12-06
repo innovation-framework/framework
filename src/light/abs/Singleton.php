@@ -1,5 +1,5 @@
 <?php
-namespace App\Library\Abs;
+namespace Light\Abs;
 
 /**
  * This class handle singleton object

@@ -1,6 +1,6 @@
 <?php 
-namespace App\Library\Facade;
-use App\Library\Facade\Proxy;
+namespace Light\Facade;
+use Light\Facade\Proxy;
 
 abstract class Facade {
     protected static $app;

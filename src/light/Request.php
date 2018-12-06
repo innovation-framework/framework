@@ -1,5 +1,5 @@
 <?php
-namespace App\Library;
+namespace Light;
 
 /**
  * This is request base class, will handler all request params

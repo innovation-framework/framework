@@ -1,7 +1,7 @@
 <?php
-namespace App\Library\Middleware;
-use App\Library\Request;
-use App\Library\Session;
+namespace Light\Middleware;
+use Light\Request;
+use Light\Session;
 
 /**
  * This is base Object that is used to filter all request 

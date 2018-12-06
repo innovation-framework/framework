@@ -1,8 +1,8 @@
 <?php
-namespace App\Library\Database;
+namespace Light\Database;
 
-use App\Library\Database\DatabaseInterface;
-use App\Library\Database\Database;
+use Light\Database\DatabaseInterface;
+use Light\Database\Database;
 
 /**
  * This class will handle to read/write to Mysql

@@ -1,5 +1,5 @@
 <?php
-namespace App\Library;
+namespace Light;
 
 /**
  * This class will handle Config object

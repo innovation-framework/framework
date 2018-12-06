@@ -19,6 +19,6 @@
         "nesbot/carbon": "1.36.1"
     },
     "autoload": {
-        "psr-4": {"App\\": "src/Light"}
+        "psr-4": {"Light\\": "src/Light"}
     }
 }

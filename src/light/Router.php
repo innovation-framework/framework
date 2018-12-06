@@ -1,5 +1,5 @@
 <?php
-namespace App\Library;
+namespace Light;
 
 class Router
 {

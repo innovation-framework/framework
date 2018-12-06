@@ -1,9 +1,9 @@
 <?php
-namespace App\Library\Database;
+namespace Light\Database;
 
-use App\Library\Database\File;
-use App\Library\Database\Mysql;
-use App\Library\Config;
+use Light\Database\File;
+use Light\Database\Mysql;
+use Light\Config;
 
 /**
  * This class will driver application to store/read data

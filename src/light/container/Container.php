@@ -1,5 +1,5 @@
 <?php
-namespace App\Library\Container;
+namespace Light\Container;
 
 /**
  * This class will contain all dependencies objects
