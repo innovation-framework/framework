@@ -27,7 +27,7 @@ class BaseResponse
         $class = strtolower($class);
         if(!in_array($class, self::$types)) return $responseObj;
 
-        $class = ucfirst(strtolower($class));
+        $class = 'Light'. DIRECTORY_SEPARATOR. 'HttpFoundation'. DIRECTORY_SEPARATOR. ucfirst(strtolower($class));
 
         return new $class;
     }
