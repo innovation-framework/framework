@@ -1,0 +1,21 @@
+{
+    "name": "innovation/framework",
+    "description": "The Innovation Framework.",
+    "keywords": ["framework", "innovation"],
+    "homepage": "https://github.com/innovation-framework/framework",
+    "support": {
+        "issues": "https://github.com/innovation-framework/framework/issues",
+        "source": "https://github.com/innovation-framework/framework"
+    },
+    "authors": [
+        {
+            "name": "Quoc Vo",
+            "email": "quocvo87@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "monolog/monolog": "1.24.*",
+        "nesbot/carbon": "1.36.1"
+    }
+}
